@@ -1,2 +1,2 @@
 # heisen
-Simple and dirty operating system.
+Simple and dirty operating system
